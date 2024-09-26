@@ -1,0 +1,20 @@
+/* src/pages/Checkout.css */
+.checkout {
+    padding: 20px;
+    background-color: #fff;
+}
+
+.checkout h1 {
+    margin-bottom: 20px;
+}
+
+.checkout-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.checkout-form input {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
